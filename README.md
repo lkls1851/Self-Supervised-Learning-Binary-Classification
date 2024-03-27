@@ -9,4 +9,6 @@ We use CosineEmbeddingLoss as our loss function instead of BCE, because Coosine 
 4. 'encoder.pth' : Trained weights of encoder
 
 </br>
+Trained Weights Uploades: https://drive.google.com/file/d/19tXFBwD1PnUBekns9zK14KVjZLFvOUAG/view?usp=sharing
+</br>
 ROC AUC: 0.8823529411764706
